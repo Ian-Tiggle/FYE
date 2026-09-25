@@ -3,3 +3,5 @@
 Welcome to my website. It's written in _markdown_.
 
 * Markdown is easy to write in.
+
+Why don't you read all [about me!](about.md)
