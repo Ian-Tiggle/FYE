@@ -1,3 +1,4 @@
+[Go home](index.md)
 # This is my FYE course
 ## Syllabus
 First-Year Experience
