@@ -1,3 +1,4 @@
+[Go home](index.md)
 # This is my Calculus 1 course 
 ## Syllabus
 COURSE SYLLABUS
