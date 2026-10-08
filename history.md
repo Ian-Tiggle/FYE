@@ -1,3 +1,4 @@
+[Go home](index.md)
 # This is my History Course
 ## Syllabus
                                                         United States History Since 1865
